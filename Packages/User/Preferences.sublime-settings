@@ -1,3 +1,7 @@
 {
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme"
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
 }
