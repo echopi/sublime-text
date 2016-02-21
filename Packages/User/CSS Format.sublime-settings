@@ -3,12 +3,12 @@
 	//   "\t"   : one tab
 	//   "  "   : two spaces
 	//   "    " : four spaces
-	"indentation": "\t",
+	"indentation": "  ",
 
 	// Format on Save
 	//   false : disabled
 	//   true  : enabled
-	"format_on_save": false,
+	"format_on_save": true,
 
 	// On Save Action
 	//   "expand"        : Expanded
@@ -18,7 +18,7 @@
 	//   "compact-bs"    : Compact (Break Selectors)
 	//   "compact-bs-ns" : Compact (Break Selectors, No Spaces)
 	//   "compress"      : Compressed
-	"format_on_save_action": "expand",
+	"format_on_save_action": "expand-bs",
 
 	// On Save File Filter
 	//   Please use regular expression
