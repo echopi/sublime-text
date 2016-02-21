@@ -1,0 +1,36 @@
+{
+    "channels":
+[
+"https://packagecontrol.io/channel_v3.json",
+"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
+],
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Autoprefixer",
+        "BracketHighlighter",
+        "ConvertToUTF8",
+        "CSS Format",
+        "CSS Snippets",
+        "DocBlockr",
+        "EditorConfig",
+        "Emmet",
+        "HTML Boilerplate",
+        "Java Velocity",
+        "JsFormat",
+        "LESS",
+        "Less2Css",
+        "Markdown Preview",
+        "MarkdownCodeBlockWrapper",
+        "Modific",
+        "Oceanic Next Color Scheme",
+        "OmniMarkupPreviewer",
+        "Package Control",
+        "SublimeOnSaveBuild",
+        "SVN"
+    ]
+}
+
