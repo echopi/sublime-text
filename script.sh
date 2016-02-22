@@ -1,4 +1,5 @@
 #!/bin/sh
+echo '\n'
 echo `date`
 cd /Users/jiewei.ljw/Sublime
 echo `date` >> git.log
