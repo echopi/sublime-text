@@ -30,17 +30,5 @@
       <integer>10</integer>
     </dict>
 
-    <!-- 标准输入文件 -->
-    <key>StandardInPath</key>
-    <string>/Users/jiewei.ljw/autologs/run-in.log</string>
-
-    <!-- 标准输出文件 -->
-    <key>StandardOutPath</key>
-    <string>/Users/jiewei.ljw/autologs/run-out.log</string>
-
-    <!-- 标准错误输出文件 -->
-    <key>StandardErrorPath</key>
-    <string>/Users/jiewei.ljw/autologs/run-err.log</string>
-
   </dict>
 </plist>
