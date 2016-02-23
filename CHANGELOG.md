@@ -1,6 +1,5 @@
 ## subl sync
 
----
 
 ### 0.0.1
 `tag:new` init
