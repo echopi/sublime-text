@@ -1,11 +1,6 @@
-[{
-    "lesscCommand": "/usr/local/lib/node_modules/less/bin/lessc"
-}, { 
+[{ 
     "keys": ["ctrl+i"], 
     "command": "reindent" 
-},{
-    "keys": ["ctrl+shift+s"],
-    "command": "auto_save"
 }, {
     "keys": ["ctrl+alt+shift+p"],
     "command": "autoprefixer"
