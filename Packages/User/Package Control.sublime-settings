@@ -12,6 +12,7 @@
 	[
 		"Autoprefixer",
 		"BracketHighlighter",
+		"Codecs33",
 		"ConvertToUTF8",
 		"CSS Format",
 		"CSS Snippets",
@@ -31,6 +32,7 @@
 		"Oceanic Next Color Scheme",
 		"OmniMarkupPreviewer",
 		"Package Control",
+		"PackageResourceViewer",
 		"PostCSS Sorting",
 		"SublimeOnSaveBuild",
 		"SVN"
