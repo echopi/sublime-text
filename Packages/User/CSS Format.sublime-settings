@@ -8,7 +8,7 @@
 	// Format on Save
 	//   false : disabled
 	//   true  : enabled
-	"format_on_save": true,
+	"format_on_save": false,
 
 	// On Save Action
 	//   "expand"        : Expanded
