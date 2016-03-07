@@ -35,6 +35,10 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PostCSS Sorting",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-csslint",
 		"SublimeOnSaveBuild",
 		"SVN"
 	]
