@@ -2,6 +2,7 @@
 	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"ignored_packages":
 	[
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
 		"Vintage"
 	]
