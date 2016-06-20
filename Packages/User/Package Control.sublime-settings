@@ -7,6 +7,18 @@
 	"debug": true,
 	"in_process_packages":
 	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"EditorConfig",
+		"HTMLBeautify",
+		"Java Velocity",
+		"Less2Css",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"OmniMarkupPreviewer",
+		"PackageResourceViewer",
+		"SublimeLinter",
+		"SVN"
 	],
 	"installed_packages":
 	[
@@ -36,6 +48,7 @@
 		"Oceanic Next Color Scheme",
 		"OmniMarkupPreviewer",
 		"Package Control",
+		"Package Syncing",
 		"PackageResourceViewer",
 		"PostCSS Sorting",
 		"SCSS Compiler",
