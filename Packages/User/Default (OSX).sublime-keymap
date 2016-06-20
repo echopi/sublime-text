@@ -1,7 +1,13 @@
-[{ 
-    "keys": ["ctrl+i"], 
-    "command": "reindent" 
+[{
+  "keys": ["ctrl+i"],
+  "command": "reindent"
 }, {
-    "keys": ["ctrl+alt+shift+p"],
-    "command": "autoprefixer"
+  "keys": ["ctrl+alt+shift+p"],
+  "command": "autoprefixer"
+}, {
+  "button": "button1",
+  "count": 1,
+  "modifiers": ["ctrl"],
+  "press_command": "drag_select",
+  "command": "goto_definition"
 }]
