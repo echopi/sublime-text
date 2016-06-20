@@ -10,14 +10,17 @@
  */
 
 {
-  "lesscCommand": false,
+  "autoCompile": true,
+  "createCssSourceMaps": false,
+  "ignorePrefixedFiles": false,
   "lessBaseDir": "./",
-  "outputDir": "./",
-  "outputFile": "", //[example.css] if left blank uses same name of .less file
+  "lesscCommand": false,
+  "main_file": false,
   "minify": false,
   "minName": false,
-  "autoCompile": true,
+  "outputDir": "./",
+  "outputFile": "", //[example.css] if left blank uses same name of .less file
   "showErrorWithWindow": true,
-  "main_file": false,
-  "ignorePrefixedFiles": false
+  "autoprefix": true,
+  "disableVerbose":false
 }

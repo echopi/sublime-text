@@ -22,8 +22,8 @@
 
 
 ##  参考
-- [packages syncing](1)
+- [packages syncing][1]
 
 
 
-[1]: https://packagecontrol.io/docs/syncing "packages syncing"
+[1]: https://packagecontrol.io/packages/Package%20Syncing "packages syncing"
