@@ -1,7 +1,7 @@
 #!/bin/sh
 echo '\n'
 echo `date`
-cd /Users/jiewei.ljw/Sublime
+cd ~/Sync/Sublime
 echo `date` >> git.log
 git diff --name-only >> git.log
 git add .
