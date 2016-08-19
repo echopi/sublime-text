@@ -7,21 +7,10 @@
 	"debug": true,
 	"in_process_packages":
 	[
-		"Autoprefixer",
-		"BracketHighlighter",
-		"EditorConfig",
-		"HTMLBeautify",
-		"Java Velocity",
-		"Less2Css",
-		"Markdown Preview",
-		"Oceanic Next Color Scheme",
-		"OmniMarkupPreviewer",
-		"PackageResourceViewer",
-		"SublimeLinter",
-		"SVN"
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Codecs33",
@@ -33,6 +22,7 @@
 		"EditorConfig",
 		"EditorConfigSnippets",
 		"Emmet",
+		"ESLint",
 		"GitGutter-Edge",
 		"HTML Boilerplate",
 		"HTML-CSS-JS Prettify",
@@ -54,7 +44,6 @@
 		"SCSS Compiler",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-csslint",
 		"SublimeOnSaveBuild",
 		"SVN"
