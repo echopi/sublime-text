@@ -3,19 +3,6 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Autoprefixer",
-		"BracketHighlighter",
-		"EditorConfig",
-		"HTMLBeautify",
-		"Java Velocity",
-		"Less2Css",
-		"Markdown Preview",
-		"Oceanic Next Color Scheme",
-		"OmniMarkupPreviewer",
-		"PackageResourceViewer",
-		"SublimeLinter",
-		"SublimeLinter-contrib-stylelint",
-		"SVN",
 		"Vintage"
 	]
 }
