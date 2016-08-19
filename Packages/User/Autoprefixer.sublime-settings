@@ -1,5 +1,5 @@
 {
-    "browsers": ["last 4 versions"],
+    "browsers": ["last 6 versions"],
     "cascade": true,
     "remove": true
 }
