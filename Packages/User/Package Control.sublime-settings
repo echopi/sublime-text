@@ -32,13 +32,13 @@
 		"JsFormat",
 		"LESS",
 		"Less2Css",
-		"Markdown Preview",
-		"MarkdownCodeBlockWrapper",
+		"MarkdownEditing",
 		"Modific",
 		"Oceanic Next Color Scheme",
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"Package Syncing",
+		"PackageDev",
 		"PackageResourceViewer",
 		"PostCSS Sorting",
 		"SCSS Compiler",
@@ -46,6 +46,6 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeOnSaveBuild",
-		"SVN"
+		"Vue Syntax Highlight"
 	]
 }
