@@ -1,6 +1,6 @@
 #!/bin/sh
 echo '\n'`date`
-cd ~/Sync/Sublime
+cd ~/sync/sublime
 
 echo `date` >> git.log
 git diff --name-only >> git.log

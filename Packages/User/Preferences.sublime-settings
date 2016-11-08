@@ -1,8 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
-	"font_size": 12,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"SVN",
 		"Vintage"
 	]
 }

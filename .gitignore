@@ -5,4 +5,7 @@ Packages/User/Package Control.system-ca-bundle
 Packages/User/Package Control.cache/
 Packages/User/Package Control.ca-certs/
 Packages/User/encoding_cache.json
+Packages/User/SVN.errors.log
+Packages/User/oscrypto-ca-bundle.crt
+Packages/User/Package Control.merged-ca-bundle
 git.log

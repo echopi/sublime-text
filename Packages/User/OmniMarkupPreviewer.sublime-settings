@@ -1,0 +1,5 @@
+/* OmniMarkupPreviewer default setting, DO NOT MODIFY */
+{
+    "server_host": "127.0.0.1",
+    "server_port": 51005
+}

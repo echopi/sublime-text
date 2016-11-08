@@ -4,17 +4,17 @@
   <dict>
     <!-- 名称，要全局唯一 -->
     <key>Label</key>
-    <string>com.gitsync.sublime</string>
+    <string>com.github.sync.sublime</string>
 
     <!-- 要运行的程序， 如果省略这个选项，会把ProgramArguments的第一个
     元素作为要运行的程序 -->
     <key>Program</key>
-    <string>/Users/jiewei.ljw/Sublime/script.sh</string>
+    <string>/Users/jiewei.ljw/sync/sublime/script.sh</string>
 
     <!-- 命令， 第一个为命令，其它为参数-->
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/jiewei.ljw/Sublime/script.sh</string>
+      <string>/Users/jiewei.ljw/sync/sublime/script.sh</string>
     </array>
 
     <!-- 运行间隔，与StartCalenderInterval使用其一，单位为秒 -->
