@@ -1,5 +1,5 @@
 {
-    "browsers": ["> 1%","last 4 versions","UCAndroid >=10","ie > 8 ","ie_mob 11","Firefox > 20"],
-    "cascade": true,
-    "remove": true
+  "browsers": ["last 5 versions", "android >= 4.2", "ios >= 7", "UCAndroid >=10"],
+  "cascade": true,
+  "remove": true
 }
