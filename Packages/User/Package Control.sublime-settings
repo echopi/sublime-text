@@ -23,10 +23,12 @@
 		"EditorConfigSnippets",
 		"Emmet",
 		"ESLint",
-		"GitGutter-Edge",
+		"ESLint-Formatter",
+		"GitGutter",
 		"HTML Boilerplate",
 		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
+		"Insert Nums",
 		"Java Velocity",
 		"Jeet Snippets",
 		"JsFormat",
@@ -42,10 +44,12 @@
 		"PackageResourceViewer",
 		"PostCSS Sorting",
 		"SCSS Compiler",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeOnSaveBuild",
+		"TypeScript",
 		"Vue Syntax Highlight"
 	]
 }
