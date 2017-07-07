@@ -1,5 +1,11 @@
 {
-  "browsers": ["last 5 versions", "android >= 4.2", "ios >= 7", "UCAndroid >=10"],
+  "browsers": [ "android >= 4.2", "ios >= 7", "UCAndroid >=10", "not ie <= 10", "not ie_mob <= 10" ],
   "cascade": true,
-  "remove": true
+  "remove": true,
+  // Add prefixes for flexbox properties
+  // Set it to "no-2009" to only add prefixes for the final and IE versions of the specification
+  "flexbox": true,
+
+  // Add IE prefixes for grid layout properties
+  "grid": false
 }

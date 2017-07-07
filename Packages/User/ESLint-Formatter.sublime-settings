@@ -22,7 +22,8 @@
   "eslint_path": {
     "windows": "%APPDATA%/npm/node_modules/eslint/bin/eslint",
     "linux": "/usr/bin/eslint",
-    "osx": "/usr/local/bin/eslint"
+    // "osx": "/usr/local/bin/eslint"
+    "osx": "/Users/jiewei.ljw/.nvm/versions/node/v7.8.0/bin/eslint"
   },
 
   // Specify this path to an eslint config file to override the default behavior.
